@@ -31,7 +31,8 @@ DEBUG = True
 ALLOWED_HOSTS = ['localhost', 'https://hyattbethan-8000.theiadockernext'
                  '-1-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai']
 CSRF_TRUSTED_ORIGINS = ['https://hyattbethan-8000.theiadockernext'
-                        '-1-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai']
+                        '-1-labs-prod-theiak8s-4-tor01.proxy.cognitive'
+                        'class.ai']
 
 REST_FRAMEWORK = {
     'DEFAULT_AUTHENTICATION_CLASSES': [],
